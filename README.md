@@ -1,7 +1,7 @@
 <h1 align="center">AlexanderG</h1>
 <h3 align="center">Mostly python-based DevOps</h3>
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
