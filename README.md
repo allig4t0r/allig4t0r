@@ -3,6 +3,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enabling IOMMU for Xeon E5 v4 on Proxmox v9](https://dev.to/allig4t0r/enabling-iommu-for-xeon-e5-v4-on-proxmox-v9-5bcf)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
