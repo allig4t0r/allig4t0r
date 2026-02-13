@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm AlexanderG</h1>
 <h3 align="center">Mostly python-based DevOps</h3>
 
 ### Blogs posts
@@ -15,6 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allig4t0r&show_icons=true&locale=en&layout=compact" alt="allig4t0r" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allig4t0r&show_icons=true&locale=en" alt="allig4t0r" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allig4t0r&" alt="allig4t0r" /></p>
 
